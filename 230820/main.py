@@ -86,8 +86,6 @@ for i in range(epochs):
             print('Batch: {} Loss: {}'.format(batch, loss.item()))
 
 
-
-# Now let's try to generate some examples.
 inputs = tokenizer("35 + 71 =", return_tensors="pt")
 outputs = model.generate(inputs["input_ids"], attention_mask=inputs["attention_mask"], max_length=40)
 print(tokenizer.decode(outputs[0], skip_special_tokens=True))

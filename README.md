@@ -1,6 +1,6 @@
 ## 23/08/20
 
-GPT-2 doing various arithmetic tasks
+GPT-2 doing addition
 
 ## 23/08/18
 Torch-style backprop from scratch (part 1)
