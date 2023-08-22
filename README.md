@@ -1,4 +1,6 @@
 ## 23/08/21
+Attention from scratch for small number addition 
+
 Graph networks beginning
 
 ## 23/08/20
