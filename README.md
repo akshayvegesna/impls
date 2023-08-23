@@ -1,3 +1,6 @@
+## 23/08/22
+Decoder only multi-head attention (of questionable correctness)
+
 ## 23/08/21
 Attention from scratch for small number addition 
 
