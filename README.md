@@ -1,3 +1,6 @@
+## 23/08/24
+Deep sets
+
 ## 23/08/23
 
 Switch transformer
