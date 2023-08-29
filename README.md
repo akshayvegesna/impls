@@ -1,3 +1,6 @@
+## 23/08/28
+Attention implementation clean up
+
 ## 23/08/24
 Deep sets
 
